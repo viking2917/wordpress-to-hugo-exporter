@@ -1,5 +1,7 @@
 # WordPress to Hugo Exporter
 
+(the only change in this repo is to export iframes 'as-is', rather than skipping them.)
+
 Hugo a static site generator written in GoLang: [https://gohugo.io](https://gohugo.io)
 
 This repo is based on [https://github.com/benbalter/wordpress-to-jekyll-exporter](https://github.com/benbalter/wordpress-to-jekyll-exporter)
